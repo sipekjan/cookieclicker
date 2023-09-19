@@ -1,0 +1,21 @@
+#karban {
+    margin-top:-90px;
+    margin-left: 75px;
+    width: 100%;
+    max-width: 400px;
+
+}
+#counter{
+    padding-top: 120px;
+    padding-left: 80px;
+    color: white;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.mid{
+    margin-top: 90px;
+    text-align: center;
+}
+body{
+background-image:url(/res/img/wp7545529.webp);
+}
